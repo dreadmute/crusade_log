@@ -3,7 +3,7 @@
     ██ ████ ██ ███████ ██      ██      █████   ███████    ██    ██    ██ ███████ 
     ██  ██  ██ ██   ██ ██      ██      ██      ██   ██    ██    ██    ██      ██ 
     ██      ██ ██   ██ ███████ ███████ ███████ ██   ██    ██     ██████  ███████ 
-                          NOOSPHERE ACCESS TERMINAL v${packageJson.version}
+                          NOOSPHERE ACCESS TERMINAL v1.1
 
   ++ This NOOSPHERIC ACCESS TERMINAL is a fork of recovered <a href="https://github.com/m4tt72/terminal">original STC</a> ++
 
